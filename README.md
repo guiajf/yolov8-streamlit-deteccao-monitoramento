@@ -107,12 +107,11 @@ VIDEOS_DICT = {
 
 <https://user-images.githubusercontent.com/104087274/226178296-684ad72a-fe5f-4589-b668-95c835cd8d8a.mov>
 
-## Acknowledgements
+## Reconhecimento
 
-This app is based on the YOLOv8(<https://github.com/ultralytics/ultralytics>) object detection algorithm. The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.
+O aplicativo foi desenvolvido com o uso do algoritmo de detecção de objetos YOLOv8(<https://github.com/ultralytics/ultralytics>), bem como com o uso da biblioteca Streamlit(<https://github.com/streamlit/streamlit>) para interface com o usuário.
 
 ### Disclaimer
 
-Please note that this project is intended for educational purposes only and should not be used in production environments.
+Deve ser utilizado apenas para propósitos educacionais.
 
-**Hit star ⭐ if you like this repo!!!**
