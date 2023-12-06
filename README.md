@@ -1,6 +1,6 @@
 # Detecção e monitoramento de objetos em tempo real com YOLOv8 e Streamlit
 
-This repository is a comprehensive open-source project that demonstrates the integration of object detection and tracking using the YOLOv8 object detection algorithm and Streamlit, a popular Python web application framework for building interactive web applications. This project provides a user-friendly and customizable interface that can detect and track objects in real-time video streams.
+Este repositório é um *fork* de *"yolov8-streamlit-detection-tracking"*, disponível em [https://github.com/CodingMantras/yolov8-streamlit-detection-tracking], detalhado em uma série de 3 episódios escrita por **RS Punia**, que se inicia com [https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-1-30c56f5eb956]. O projeto busca integrar a detecção e monitoramento de objetos, com uso de **YOLOv8** - considerado o *estado da arte* em termos de algoritmo para visão computacional -  e **Streamlit**, *framework* escrito em python para desenvolver aplicativos web interativos. 
 
 ## Demo WebApp
 
