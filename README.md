@@ -4,7 +4,7 @@ Este repositório é um *fork* de *"yolov8-streamlit-detection-tracking"*, dispo
 
 ## Demo WebApp
 
-This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
+Este aplicativo está armazenado e roda em servidor virtual, nas núvens. Avalie o demo no link a seguir:
 
 [yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)
 
