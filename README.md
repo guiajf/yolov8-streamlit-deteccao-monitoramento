@@ -26,7 +26,7 @@ Este aplicativo está armazenado e roda em servidor virtual, nas núvens. Avalie
 
 <img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/segmentation.png" >
 
-## Requirements
+## Requisitos
 
 Python 3.6+
 YOLOv8
@@ -36,17 +36,17 @@ Streamlit
 pip install ultralytics streamlit pytube
 ```
 
-## Installation
+## Installação
 
-- Clone the repository: git clone <https://github.com/CodingMantras/yolov8-streamlit-detection-tracking.git>
-- Change to the repository directory: `cd yolov8-streamlit-detection-tracking`
-- Create `weights`, `videos`, and `images` directories inside the project.
-- Download the pre-trained YOLOv8 weights from (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) and save them to the `weights` directory in the same project.
+- Clone o repositório: git clone <https://github.com/CodingMantras/yolov8-streamlit-detection-tracking.git>
+- Mude o diretório: `cd yolov8-streamlit-detection-tracking`
+- Crie os diretórios: `weights`, `videos`, and `images`.
+- Faça Download dos pesos pre-trainados YOLOv8 em (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) e salve-os no diretório `weights` recém criado.
 
-## Usage
+## Instruções de uso
 
-- Run the app with the following command: `streamlit run app.py`
-- The app should open in a new browser window.
+- Execute o aplicativo com o seguinte comando: `streamlit run app.py`
+- O aplicativo deve abrir em uma nova janela do navegador.
 
 ### ML Model Config
 
