@@ -41,9 +41,9 @@ pip install ultralytics streamlit pytube
 - Clone o repositório: git clone <https://github.com/CodingMantras/yolov8-streamlit-detection-tracking.git>
 - Mude o diretório: `cd yolov8-streamlit-detection-tracking`
 - Crie os diretórios: `weights`, `videos`, and `images`.
-- Faça Download dos pesos pre-trainados YOLOv8 em (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) e salve-os no diretório `weights` recém criado.
+- Faça Download dos pesos pré-trainados YOLOv8 em (<https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt>) e salve-os no diretório `weights` recém criado.
 
-## Instruções de uso
+## Instruções de use
 
 - Execute o aplicativo com o seguinte comando: `streamlit run app.py`
 - O aplicativo deve abrir em uma nova janela do navegador.
